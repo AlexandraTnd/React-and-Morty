@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-and-Morty/static/css/main.fd53b9c7.css",
+    "main.js": "/React-and-Morty/static/js/main.2da6904c.js",
+    "index.html": "/React-and-Morty/index.html",
+    "main.fd53b9c7.css.map": "/React-and-Morty/static/css/main.fd53b9c7.css.map",
+    "main.2da6904c.js.map": "/React-and-Morty/static/js/main.2da6904c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd53b9c7.css",
+    "static/js/main.2da6904c.js"
+  ]
+}
